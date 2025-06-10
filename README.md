@@ -24,6 +24,6 @@ An AI-powered code reviewer built with React, Node.js, Express, and Tailwind CSS
 | React.js               | Node.js           | Prism.js (syntax highlighting) |
 | Tailwind CSS           | Express.js        | React Markdown / Highlight.js |
 | React Router           | REST API          | axios, dotenv                 |
-| LocalStorage Auth      | JWT (optional)    | FileReader API (upload)      |
+| LocalStorage Auth      |     | FileReader API (upload)      |
 
 ---
